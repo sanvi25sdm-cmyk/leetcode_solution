@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sanvi25sdm-cmyk/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0877-stone-game](https://github.com/sanvi25sdm-cmyk/leetcode_solution/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sanvi25sdm-cmyk/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/sanvi25sdm-cmyk/leetcode_solution/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
@@ -50,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sanvi25sdm-cmyk/leetcode_solution/tree/master/0101-symmetric-tree) |
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/sanvi25sdm-cmyk/leetcode_solution/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/sanvi25sdm-cmyk/leetcode_solution/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
